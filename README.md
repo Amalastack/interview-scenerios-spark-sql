@@ -44,6 +44,7 @@
 ### Scenerio-1 
 #### Query to get who are getting equal salary
 #### Input :-
+###Amala creation
 ```
 +--------+---------+--------+------+-------------------+------+
 |workerid|firstname|lastname|salary|        joiningdate|depart|
