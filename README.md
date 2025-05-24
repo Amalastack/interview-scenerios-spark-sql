@@ -4,7 +4,7 @@
 
 |No| Scenerios                                                                |
 |--|--------------------------------------------------------------------------|
-|1 |[Scenerio-1](#scenerio-1)                                                 |
+|1 |[Scenerio-1](scenerio-1)                                                 |
 |2 |[Scenerio-2](#scenerio-2)                                                 |
 |3 |[Scenerio-3](#scenerio-3)                                                 |
 |4 |[Scenerio-4](#scenerio-4)                                                 |
